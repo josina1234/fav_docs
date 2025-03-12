@@ -43,9 +43,9 @@ Launch the final project:
 
 .. code-block:: console
 
-   $ ros2 launch final_project final_project.launch.py vehicle_name:=bluerov00 scenario:=1 use_sim_time:=true
+   $ ros2 launch final_project final_project.launch.py vehicle_name:=bluerov00 scenario:=1 use_sim_time:=true use_scenario:=true
 
-The scenario can be chosen using the launch argument :code:`scenario`.
+The scenario can be chosen using the launch argument :code:`scenario`. During the final event set the launch argument  :code:`use_scenario:=false`, since a scenario unknown to you will be provided.
 
 RViz should open and look like this:
 
