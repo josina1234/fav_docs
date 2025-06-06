@@ -1,11 +1,7 @@
 Assignment 1
 ############
 
-Time to get our hands dirty! And to update our system!
-
-.. code-block:: console
-
-   $ sudo apt update && sudo apt upgrade
+Download the assignment PDF: :download:`Assignment 1 </res/pdfs/ws2425_assignment1.pdf>`
 
 In this assignment, you will do depth control for our underwater robot.
 

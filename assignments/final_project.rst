@@ -1,9 +1,12 @@
 Final Project
 #############
 
-.. attention::
+Download the assignment PDF: :download:`Assignment Final Project </res/pdfs/ws2425_assignment_final_project.pdf>`
 
-   You will need to update our repositories: :ref:`updating`.
+
+.. .. attention::
+
+..    You will need to update our repositories: :ref:`updating`.
 
 Install Dependencies
 ====================

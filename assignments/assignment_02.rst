@@ -1,9 +1,11 @@
 Assignment 2
 ############
 
-.. attention::
+.. .. attention::
 
-   You will need to update our repositories: :ref:`updating`.
+..    You will need to update our repositories: :ref:`updating`.
+
+Download the assignment PDF: :download:`Assignment 2 </res/pdfs/ws2425_assignment2.pdf>`
 
 Install Dependencies
 ====================

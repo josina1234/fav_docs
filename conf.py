@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Formulas and Vehicles'
-copyright = '2022-2023, Thies Lennart Alff, Nathalie Bauschmann, Daniel Dücker'
+copyright = '2022-2025, Thies Lennart Alff, Nathalie Bauschmann, Daniel Dücker'
 author = 'Thies Lennart Alff, Nathalie Bauschmann, Daniel Dücker'
 
 # -- General configuration ---------------------------------------------------
