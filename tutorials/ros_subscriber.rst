@@ -216,7 +216,7 @@ We can send the following control setpoints to the :file:`bluerov00/actuator_mix
 * Torque setpoints: Similarly, in the topic :file:`bluerov00/torque_setpoint` using the message type :file:`hippo_msgs/ActuatorSetpoint`, we send the **desired torques around the x,y,z-axis** of the BlueROV.
 
 That should be familiar to all of us from the previous tutorial and our dummy example with the :code:`setpoint_publisher.py`.
-The message definition can be looked up in :file:`~/fav/ros2_underlay/src/hippo_core/hippo_msgs/msg/ActuatorSetpoint.msg`  and is:
+The message definition can be looked up in :file:`/opt/ros/jazzy/share/hippo_control_msgs/msg/ActuatorSetpoint.msg`  and is:
 
 .. code-block::
 
